@@ -8,6 +8,9 @@
 - 📫 How to reach me: **+919051323883 | Anuraggupta.work4@gmail.com**
 - ⚡ Fun fact: **I love learning through hands-on projects rather than traditional exams.**
 
+## About me 
+**With a strong foundation in Java, Python, and SQL, I am a recent Aerospace Engineering graduate excited to leverage my technical skills in innovative projects. I thrive in dynamic environments, embracing challenges and rapidly adapting to new technologies. My expertise in programming, machine learning, and deep learning positions me perfectly for roles in data science and cutting-edge tech. I'm eager to contribute to diverse sectors, driving impactful solutions with creativity and enthusiasm.**
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anurag._.gupta44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-gupta4) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anurag-gupta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/meetmehere44) 
 
