@@ -1,15 +1,15 @@
 # Ahoy! 🌟
 
-- 🔭 I’m currently working on **integrating Deep learning to solve structural problems in Aerospace**.
-- 🌱 I’m currently learning **Physics Informed Neural Networks (PINN).**
-- 👯 I’m looking to collaborate on **solving real world problems using ML & DL.** 
-- 🤔 I’m looking for help with **Advanced Computational Simulations and integration of AI in Aerospace systems.**
-- 💬 Ask me about **Aerospace engineering & Machine learning.**
+- 🔭 I’m currently working on **an Energy-Backed Asset Pricing Model that integrates granular real-time energy data with machine learning to predict financial asset prices.**
+- 🌱 I’m currently learning **Advanced Machine Learning techniques like LSTM and integrating sustainability metrics (ESG) into financial models.**
+- 👯 I’m looking to collaborate on **innovative projects at the intersection of energy, finance, and AI.**
+- 🤔 I’m looking for help with **optimizing AI models for financial forecasting and improving real-time data integration.**
+- 💬 Ask me about **Machine Learning, Deep Learning, Energy Analytics, and Financial Modeling.**
 - 📫 How to reach me: **+919051323883 | Anuraggupta.work4@gmail.com**
-- ⚡ Fun fact: **I love learning through hands-on projects rather than traditional exams.**
+- ⚡ Fun fact: **I love combining cutting-edge tech with real-world applications, from energy to finance.**
 
 ## About me 
-**With a strong foundation in Python, and SQL, I am a recent Aerospace Engineering graduate excited to leverage my technical skills in innovative projects. I thrive in dynamic environments, embracing challenges and rapidly adapting to new technologies. My expertise in programming, Data Analysis, Machine learning, and Deep learning positions me perfectly for roles in data science and cutting-edge tech. I'm eager to contribute to diverse sectors, driving impactful solutions with creativity and enthusiasm.**
+**I am an Aerospace Engineering graduate with a strong foundation in Python, SQL, and advanced machine learning techniques. My current focus is on leveraging data science to solve real-world problems, specifically in the Energy and financial sectors. With experience in deep learning, data analysis, and AI-driven predictions, I’m eager to contribute to cutting-edge projects that push the boundaries of technology.**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anurag._.gupta44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-gupta4) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anurag-gupta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/meetmehere44) 
