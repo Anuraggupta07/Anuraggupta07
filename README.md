@@ -1,12 +1,12 @@
 # Ahoy! 🌟
 
-- 🔭 I’m currently working on **an Energy-Backed Asset Pricing Model that integrates granular real-time energy data with machine learning to predict financial asset prices.**
-- 🌱 I’m currently learning **Advanced Machine Learning techniques like LSTM and integrating sustainability metrics (ESG) into financial models.**
-- 👯 I’m looking to collaborate on **innovative projects at the intersection of energy, finance, and AI.**
-- 🤔 I’m looking for help with **optimizing AI models for financial forecasting and improving real-time data integration.**
-- 💬 Ask me about **Machine Learning, Deep Learning, Energy Analytics, and Financial Modeling.**
-- 📫 How to reach me: **+919051323883 | Anuraggupta.work4@gmail.com**
-- ⚡ Fun fact: **I love combining cutting-edge tech with real-world applications, from energy to finance.**
+- 🔭 **Currently building** an **Energy-Backed Asset Pricing Model**, integrating **real-time granular energy data** with **machine learning** to predict financial asset prices.
+- 🌱 **Learning**: Advanced ML techniques like **LSTM**, and incorporating **sustainability (ESG) metrics** into financial models.
+- 👯 **Looking to collaborate** on projects at the **intersection of energy, finance, and AI**.
+- 🤔 **Seeking support** with **optimizing AI models** for financial forecasting and enhancing **real-time data pipelines**.
+- 💬 **Talk to me about**: Machine Learning, Deep Learning, Energy Analytics, Financial Modeling.
+- 📫 **Reach me at**: +91 90513 23883 | Anuraggupta.work4@gmail.com
+- ⚡ **Fun fact**: *I’m fascinated by how patterns in the universe — like the spirals of galaxies or the symmetry of snowflakes — mirror the hidden mathematics of life itself. Nature codes everything in geometry.*
 
 ## About me 
 **I am an Aerospace Engineering graduate with a strong foundation in Python, SQL, and advanced machine learning techniques. My current focus is on leveraging data science to solve real-world problems, specifically in the Energy and financial sectors. With experience in deep learning, data analysis, and AI-driven predictions, I’m eager to contribute to cutting-edge projects that push the boundaries of technology.**
